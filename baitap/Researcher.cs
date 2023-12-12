@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace baitap
 {
-    internal class Teacher
+    internal class Researcher
     {
-        int a = 10;
     }
-   
 }
